@@ -1,4 +1,4 @@
-# UserFaker ![Main](https://github.com/simon-b64/UserFaker)
+# UserFaker
 
 Simple and realistic username, email and password generator.
 
@@ -32,4 +32,4 @@ I don't take response for any illegal activities conducted with my code.
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE © [Simon Buchinger](https://simonb.tech)
+GPL v3 © [Simon Buchinger](https://simonb.tech)

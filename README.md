@@ -32,4 +32,4 @@ I don't take response for any illegal activities conducted with my code.
 
 ## License
 
-GPL v3 © [Simon Buchinger](https://simonb.tech)
+GPL v3 © [simon-b64](https://github.com/simon-b64)
